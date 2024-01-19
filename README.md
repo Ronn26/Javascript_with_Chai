@@ -1,2 +1,2 @@
 # javascriptpractice
-Youtube Learning
+Learning
